@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/346473409?v=4" width="128" alt="Discipleship.Earth — globe, compass, and open book">
+  <img src="https://raw.githubusercontent.com/Discipleship-Earth/.github/main/profile/assets/discipleship-earth-banner.png" width="100%" alt="Discipleship.Earth — globe and open book banner">
 </p>
 
 # Discipleship.Earth
